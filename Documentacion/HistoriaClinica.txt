@@ -1,0 +1,3 @@
+Nombre de la Mascota: null
+Descripción de la Historia Clínica: null
+

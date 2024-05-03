@@ -1,0 +1,1 @@
+Usuario [username= nic, rol= Vendedor, Contraseña=  ]123
